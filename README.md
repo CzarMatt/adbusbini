@@ -1,5 +1,6 @@
 adbusbini
 =========
+This file contains every known Android vendor id.
 
 Drop this into ~/.android/
 
