@@ -1,6 +1,12 @@
 adbusbini
 =========
 
+Drop this into ~/.android/
+
+
+
+Note:
+
 All known Android vendor ids
 By default ‘adb’ is compiled to consider at most 128 vendor IDs (VENDOR_COUNT_MAX), 
 including the ~30-40 built-in vendors.
